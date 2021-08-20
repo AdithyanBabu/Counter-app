@@ -1,0 +1,16 @@
+*{
+
+  padding: 0;
+  margin: 0;
+
+}
+body {
+  font-family: cursive;
+  background-image: linear-gradient(to right top, #131415, #454647, #7f7f80, #bdbdbd, #ffffff);
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
